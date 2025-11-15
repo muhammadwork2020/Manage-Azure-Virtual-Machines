@@ -1,7 +1,7 @@
 # 🧪 Manage Virtual Machines
 
 ## 📘 Overview  
-This repository documents the full walkthrough of **Lab 08: Manage Virtual Machines** from the AZ-104 certification track. It includes step-by-step instructions, screenshots, and commentary for deploying, scaling, and automating Azure Virtual Machines and Virtual Machine Scale Sets (VMSS).
+This repository documents the full walkthrough of **Lab: Manage Virtual Machines** from the AZ-104 certification track. It includes step-by-step instructions, screenshots, and commentary for deploying, scaling, and automating Azure Virtual Machines and Virtual Machine Scale Sets (VMSS).
 
 All tasks were completed in a secure campus lab environment using the Azure Portal, PowerShell, and CLI. Screenshots are used in place of screen recordings due to security restrictions.
 
